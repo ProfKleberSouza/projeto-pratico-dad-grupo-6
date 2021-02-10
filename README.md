@@ -1,18 +1,19 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicações Distribuídas`
 
-`SEMESTRE`
+`1/2021`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Ana Flávia Ribeiro Gomes
+- Arthur Guilherme Bonfim Campinho
+- Bárbara Ferreira Jesuino
+- Igor Sena Marques
+- Matheus Fonseca Marinho Andrade
 
 # Documentação
 
