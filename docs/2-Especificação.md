@@ -5,6 +5,11 @@
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
+> 
+## Público-Alvo
+A aplicação proposta terá como público alvo os pacientes de um equipe de psicólogos voluntários que atendem na ONG, assim como os psicólogos e gestores que irão coordenar as datas de atendimento e disponibilidade de horários.
+
+Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens e adultos que buscam tratamento psicológico mas que não tenham oportunidades para custear o mesmo e que fazem o uso de dispositivos móveis para algumas das suas atividades diárias e lazer.
 
 ## Personas
 
