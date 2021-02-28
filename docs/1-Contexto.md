@@ -14,6 +14,7 @@ O objetivo deste projeto é desenvolver um sistema para auxiliar no cadastro e g
 
 Como objetivos específicos, podemos ressaltar:
 - Fornecer funcionalidades que permitam o usuário visualizar e gerenciar a data e horário de seu atendimento.
+- Fornecer funcionalidades para que funcionários possam realizar cadastro e manutenção dos profissionais no sistema.
 - Fornecer uma interface interativa, baseada em uma agenda, para facilitar a utilização do usuário.
 
 ## Justificativa
