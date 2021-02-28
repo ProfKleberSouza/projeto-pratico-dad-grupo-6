@@ -44,3 +44,7 @@ Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
+## Personas
+
+Maria tem 30 anos, trabalha com controle de qualidade e por consequência da pandemia do COVID-19 ficou sem emprego, já que a empresa em que trabalhava fechou.
+Devido a essa situação Maria ficou com o pisicológico bastante abalado, então ela está em busca de uma clínica com pisicólogos eficientes que auxiliem nesse momento tão delicado e complicado, para que ela consiga achar uma solução de suprir suas necessidades referentes a um novo modo de viver já que seu emprego era sua única fonte de renda.
