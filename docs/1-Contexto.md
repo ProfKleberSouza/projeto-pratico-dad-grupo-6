@@ -10,14 +10,11 @@
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo deste projeto é desenvolver um sistema para auxiliar no cadastro e gerenciamento de consultas psicológicas da ONG PUC-PSI. O sistema deverá auxiliar no agendamento e gestão dos atendimentos psicológicos oferecidos para a comunidade, além de fornecer um cadastro e manutenção dos profissionais de psicologia que atendem na organização.
+
+Como objetivos específicos, podemos ressaltar:
+- Fornecer funcionalidades que permitam o usuário visualizar e gerenciar a data e horário de seu atendimento.
+- Fornecer uma interface interativa, baseada em uma agenda, para facilitar a utilização do usuário.
 
 ## Justificativa
 
