@@ -19,15 +19,8 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
+Sob essa ótica, buscamos desenvolver um sistema que visa automatizar a gestão de consultas psicológicas oferecidas pela ONG PUC-PSI, facilitando assim o agendamento de consultas com os psicólogos e, criando uma conexão mais fácil e abrangente com o usuário, já que o mesmo poderá visualizar todos horários e datas disponiveis através do sistema que estamos propondo. 
+
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
