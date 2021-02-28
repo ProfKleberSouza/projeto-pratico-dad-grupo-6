@@ -2,10 +2,9 @@
 
 ## Problema
 > A PUC-PSI é uma ONG que oferece atendimento psicológico à comunidade.
-> Este projeto foi pensado para solucionarmos um problema nas clínicas de
-> psicologia da PUC. Com a pandemia do COVID-19, a procura da clínica aumentou
-> dificultando o agendamento de horários disponíveis para atendimento que é feito
-> de forma manual, no qual o atendente recebe uma ligação e através de uma planilha excel
+> Com a pandemia do COVID-19 a procura da clínica aumentou, dificultando
+> o agendamento de horários disponíveis para atendimento que é feito
+> de forma manual. O atendente recebe uma ligação e através de uma planilha excel
 > vai sugerindo as datas disponíveis aos pacientes. Processo esse que geralmente gasta
 > de 5 a 10 minutos do tempo de atendimento da secretária da clínica.
 
