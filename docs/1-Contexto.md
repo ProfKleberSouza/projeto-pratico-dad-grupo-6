@@ -30,4 +30,4 @@ Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens
 ## Personas
 
 Maria tem 30 anos, trabalha com controle de qualidade e por consequência da pandemia do COVID-19 ficou sem emprego, já que a empresa em que trabalhava fechou.
-Devido a essa situação Maria ficou com o pisicológico bastante abalado, então ela está em busca de uma clínica com pisicólogos eficientes que auxiliem nesse momento tão delicado e complicado, para que ela consiga achar uma solução de suprir suas necessidades referentes a um novo modo de viver, já que seu emprego era sua única fonte de renda.
+Devido a essa situação Maria ficou com o pisicológico bastante abalado, então ela está em busca de uma clínica com pisicólogos eficientes que auxiliem nesse momento tão delicado e complicado, para que ela consiga achar uma solução de suprir suas necessidades referentes a um novo modo de viver, já que seu emprego era sua única fonte de renda. Maria utiliza dispositivos móveis para manter contato com a família, e para lazer, como Facebook e Pinterest.
