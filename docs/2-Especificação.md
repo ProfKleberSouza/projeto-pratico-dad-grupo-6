@@ -19,16 +19,9 @@ João tem 28 anos, aluno no curso de Ciência da Computação. Está em busca de
 
 Gabriela tem 23 anos, cursa Sistemas de Informação. Trabalha na área de atendimento e possui uma grande vivência com aplicativos móveis e plataformas web.
 
-Larissa tem 20 anos, recém-formada em Odontologia e autônoma. Frequenta a ONG e necessita de um melhor atendimento em relação as consultas já que o quadro de pacientes aumentou devido a pandemia do COVID-19. Larissa utiliza plataformas web com frequência pois ela possui um blog para divulgação de seus trabalhos profissionais.
+Larissa tem 20 anos, recém-formada em Odontologia e autônoma. Frequenta a ONG e necessita de um melhor atendimento em relação as consultas, já que o quadro de pacientes aumentou devido a pandemia do COVID-19. Larissa utiliza plataformas web com frequência pois ela possui um blog para divulgação de seus trabalhos profissionais.
 
 Wesley tem 25 anos, cursa Sistemas de Informação. Trabalha na área de Assistente de TI, e utiliza de aplicativos móveis e plataformas web para realizar tarefas em seu serviço do dia-a-dia.
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
