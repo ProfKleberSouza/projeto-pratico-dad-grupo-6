@@ -19,21 +19,13 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-Sob essa ótica, buscamos desenvolver um sistema que visa automatizar a gestão de consultas psicológicas oferecidas pela ONG PUC-PSI, facilitando assim o agendamento de consultas com os psicólogos e, criando uma conexão mais fácil e abrangente com o usuário, já que o mesmo poderá visualizar todos horários e datas disponiveis através do sistema que estamos propondo. 
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Sob essa ótica, buscamos desenvolver um sistema que visa automatizar a gestão de consultas psicológicas oferecidas pela ONG PUC-PSI, facilitando assim o agendamento de consultas com os psicólogos e, criando uma conexão mais fácil e abrangente com o usuário, já que o mesmo poderá visualizar todos horários e datas disponiveis através do sistema que estamos propondo.
 
 ## Público-Alvo
 
 A aplicação proposta terá como público alvo os pacientes de um equipe de psicólogos voluntários que atendem na ONG, assim como os psicólogos e gestores que irão coordenar as datas de atendimento e disponibilidade de horários.
 
 Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens e adultos que buscam tratamento psicológico mas que não tenham oportunidades para custear o mesmo e que fazem o uso de dispositivos móveis para algumas das suas atividades diárias e lazer. Assim como psicólogos e gestores da ONG, que tenham vinvência no horários de atendimento e que conhecem a rotina da ONG para alimentar o sistema de gestão de consultas e que fazem uso frequente de computadores e dispositivos móveis.
-
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 ## Personas
 
