@@ -13,8 +13,15 @@ Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens
 
 ## Personas
 
-Maria tem 30 anos, trabalhava com controle de qualidade e por consequência da pandemia do COVID-19 ficou sem emprego, já que a empresa em que trabalhava fechou.
-Devido a essa situação Maria ficou com o pisicológico bastante abalado, então ela está em busca de uma clínica com pisicólogos eficientes que auxiliem nesse momento tão delicado e complicado, para que ela consiga achar uma solução de suprir suas necessidades referentes a um novo modo de viver, já que seu emprego era sua única fonte de renda. Maria utiliza dispositivos móveis para manter contato com a família, e para lazer, como Facebook e Pinterest.
+Maria tem 30 anos, trabalha com controle de qualidade, e utiliza dispositivos móveis para manter contato com a família, e para lazer, como Facebook, WhatsApp e Pinterest.
+
+João tem 28 anos, aluno no curso de Ciência da Computação. Está em busca de uma ONG com custo acessível para apoio psicológico. E utiliza dispositivos móveis para realizar cursos online.
+
+Gabriela tem 23 anos, cursa Sistemas de Informação. Trabalha na área de atendimento e possui uma grande vivência com aplicativos móveis e plataformas web.
+
+Larissa tem 20 anos, recém-formada em Odontologia e autônoma. Frequenta a ONG e necessita de um melhor atendimento em relação as consultas já que o quadro de pacientes aumentou devido a pandemia do COVID-19. Larissa utiliza plataformas web com frequência pois ela possui um blog para divulgação de seus trabalhos profissionais.
+
+Wesley tem 25 anos, cursa Sistemas de Informação. Trabalha na área de Assistente de TI, e utiliza de aplicativos móveis e plataformas web para realizar tarefas em seu serviço do dia-a-dia.
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
 se desenvolver profissionalmente através de um mestrado fora do país,
