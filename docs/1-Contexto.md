@@ -27,6 +27,16 @@ A aplicação proposta terá como público alvo os pacientes de um equipe de psi
 
 Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens e adultos que buscam tratamento psicológico mas que não tenham oportunidades para custear o mesmo e que fazem o uso de dispositivos móveis para algumas das suas atividades diárias e lazer. Assim como psicólogos e gestores da ONG, que tenham vinvência no horários de atendimento e que conhecem a rotina da ONG para alimentar o sistema de gestão de consultas e que fazem uso frequente de computadores e dispositivos móveis.
  
+## Personas
 
+Maria tem 30 anos, trabalha com controle de qualidade, e utiliza dispositivos móveis para manter contato com a família, e para lazer, como Facebook, WhatsApp e Pinterest.
+
+João tem 28 anos, aluno no curso de Ciência da Computação. Está em busca de uma ONG com custo acessível para apoio psicológico. E utiliza dispositivos móveis para realizar cursos online.
+
+Gabriela tem 23 anos, cursa Sistemas de Informação. Trabalha na área de atendimento e possui uma grande vivência com aplicativos móveis e plataformas web.
+
+Larissa tem 20 anos, recém-formada em Odontologia e autônoma. Frequenta a ONG e necessita de um melhor atendimento em relação as consultas, já que o quadro de pacientes aumentou devido a pandemia do COVID-19. Larissa utiliza plataformas web com frequência pois ela possui um blog para divulgação de seus trabalhos profissionais.
+
+Wesley tem 25 anos, cursa Sistemas de Informação. Trabalha na área de Assistente de TI, e utiliza de aplicativos móveis e plataformas web para realizar tarefas na empresa em que trabalha, durante o seu dia-a-dia.
 
 
