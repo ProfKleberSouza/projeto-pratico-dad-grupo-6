@@ -2,9 +2,10 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Neste projeto estamos propondo um calendário que será alimentado pela ONG e disponibilizado aos pacientes, permitindo que os próprios possam visualizar a disponibilidade de dias e horários, facilitando assim o processo de agendamento das consultas. Através do calendário, os pacientes podem efetuar o cancelamento do atendimento sem muita burocracia e gerando um alerta para que os gestores da clínica possam identificar o pedido e abrir uma nova vaga.
+
+Baseado nas personas identificadas trabalho será realizado no ambiente Web, sendo responsivo a necessidade e uso no aparelho móvel. Também serão mantidos registrados informações importantes da ficha do pacientes, apenas no acesso da clínica para que quando seja visualizado uma consulta do mesmo, essas informações sejam obtidas em tela preparando o profissional da ONG a um atendimento mais assertivo. Também será acrescentado a opção da numeração da consulta dos pacientes, permitindo a clínica acompanhar quantas seções um determinado paciente já teve e como está o andamento dele.
+
 > 
 ## Público-Alvo
 A aplicação proposta terá como público alvo os pacientes de um equipe de psicólogos voluntários que atendem na ONG, assim como os psicólogos e gestores que irão coordenar as datas de atendimento e disponibilidade de horários.
