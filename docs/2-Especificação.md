@@ -21,7 +21,7 @@ Gabriela tem 23 anos, cursa Sistemas de Informação. Trabalha na área de atend
 
 Larissa tem 20 anos, recém-formada em Odontologia e autônoma. Frequenta a ONG e necessita de um melhor atendimento em relação as consultas, já que o quadro de pacientes aumentou devido a pandemia do COVID-19. Larissa utiliza plataformas web com frequência pois ela possui um blog para divulgação de seus trabalhos profissionais.
 
-Wesley tem 25 anos, cursa Sistemas de Informação. Trabalha na área de Assistente de TI, e utiliza de aplicativos móveis e plataformas web para realizar tarefas na empresa em que trabalha no dia-a-dia.
+Wesley tem 25 anos, cursa Sistemas de Informação. Trabalha na área de Assistente de TI, e utiliza de aplicativos móveis e plataformas web para realizar tarefas na empresa em que trabalha, durante o seu dia-a-dia.
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
