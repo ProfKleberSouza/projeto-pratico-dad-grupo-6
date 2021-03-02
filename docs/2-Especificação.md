@@ -7,10 +7,6 @@ Neste projeto estamos propondo um calendário que será alimentado pela ONG e di
 Baseado nas personas identificadas trabalho será realizado no ambiente Web, sendo responsivo a necessidade e uso no aparelho móvel. Também serão mantidos registrados informações importantes da ficha do pacientes, apenas no acesso da clínica para que quando seja visualizado uma consulta do mesmo, essas informações sejam obtidas em tela preparando o profissional da ONG a um atendimento mais assertivo. Também será acrescentado a opção da numeração da consulta dos pacientes, permitindo a clínica acompanhar quantas seções um determinado paciente já teve e como está o andamento dele.
 
 > 
-## Público-Alvo
-A aplicação proposta terá como público alvo os pacientes de um equipe de psicólogos voluntários que atendem na ONG, assim como os psicólogos e gestores que irão coordenar as datas de atendimento e disponibilidade de horários.
-
-Desta forma estabelece que o público-alvo sejam homens e mulheres, entre jovens e adultos que buscam tratamento psicológico mas que não tenham oportunidades para custear o mesmo e que fazem o uso de dispositivos móveis para algumas das suas atividades diárias e lazer. Assim como psicólogos e gestores da ONG, que tenham vinvência no horários de atendimento e que conhecem a rotina da ONG para alimentar o sistema de gestão de consultas e que fazem uso frequente de computadores e dispositivos móveis.
 
 ## Personas
 
